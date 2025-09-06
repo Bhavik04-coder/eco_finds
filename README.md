@@ -7,7 +7,7 @@ How to run locally (XAMPP)
 2. Start Apache and MySQL from XAMPP control panel.
 3. Open phpMyAdmin: http://localhost/phpmyadmin
 4. Import `ecofinds_db.sql` (file included) to create the `ecofinds_db` database and tables.
-5. Open http://localhost/ecofinds_project_fixed/ in your browser.
+5. Open http://localhost/ecofinds_lights/ in your browser.
 
 Important files to check
 - includes/config.php  -> Database credentials (default root / no password)
